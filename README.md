@@ -2,9 +2,9 @@
 Final Year Project on Deepfake Detection  
 
 ## Contributors :
--Tanishka Patel
 - Disha Chaudhari
 - Rashmi Deshmukh
+- Tanishka Patel
 - Manasi Kasande
 - Parul Sharma
 
